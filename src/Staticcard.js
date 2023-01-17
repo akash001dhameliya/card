@@ -34,7 +34,7 @@ const Subcard = () =>
                         <RiStarSFill/>
                         </div>
                     <div className='btn my-2'>
-                        <a href = "#" className='fs-6 text-decoration-none bg-primary p-2 text-dark rounded-3'>Know More</a>
+                        <a href = "#" className='btn btn-primary'>Know More</a>
                     </div>
                     </div>
                 </div>
