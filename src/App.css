@@ -1,0 +1,16 @@
+.main
+{
+  transition: .3s;
+}
+
+.main:hover
+{
+  transition: .3s;
+  transform: scale(.9);
+  background-color: rgba(0,0,0,0.2);
+}
+
+.image
+{
+  padding: 20px;
+}
